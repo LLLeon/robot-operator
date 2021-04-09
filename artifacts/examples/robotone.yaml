@@ -1,0 +1,7 @@
+apiVersion: robot.llleon.io/v1
+kind: Robot
+metadata:
+  name: robot-one
+spec:
+  deploymentName: robot-one
+  replicas: 2
